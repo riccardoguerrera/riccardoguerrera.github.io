@@ -1,0 +1,9 @@
+section#one > section {
+    justify-content: center;
+    align-items: center;
+}
+
+section#one img {
+    width: 250px;
+    height: auto;
+}
