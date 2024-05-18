@@ -13,11 +13,11 @@
 }
 
 html, body {
-    font-family: 'Dosis', serif;
+    font-family: 'Dosis', serif !important;
 }
 
 h1, p {
-    font-family: 'texGyreHerosRegular', serif;
+    font-family: 'texGyreHerosRegular', serif !important;
 }
 
 #sidebar {
