@@ -1,3 +1,29 @@
+@font-face {
+    font-family: texGyreHerosRegular;
+    src: url('../../assets/webfonts/TeX-Gyre-Heros/texgyreheros-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: texGyreHerosCnregular;
+    src: url('../../assets/webfonts/TeX-Gyre-Heros/texgyreheroscn-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html, body {
+    font-family: 'Dosis', serif;
+}
+
+h1, p {
+    font-family: 'texGyreHerosRegular', serif;
+}
+
+#sidebar {
+    background-color: #28376e;
+}
+
 section#one {
     height: 80vh;
 }
