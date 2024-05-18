@@ -1,3 +1,7 @@
+section#one {
+    height: 80vh;
+}
+
 section#one > section {
     justify-content: center;
     align-items: center;
